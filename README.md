@@ -8,3 +8,7 @@ Introduction
 
 The project was done as a perfect introduction to Artificial Neural networks.
 The dataset was obtained from MNIST
+
+Two set of notebooks are uploaded:
+- identification through XGBoost 
+- identification through ANN
