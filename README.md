@@ -1,2 +1,10 @@
 # Digital_Recognizer
-Recognise the digits from a set of handwritten digits using artificial neural network
+
+Problem description
+
+The goal is to correctly identify digits from a dataset of tens of thousands of handwritten images.
+
+Introduction
+
+The project was done as a perfect introduction to Artificial Neural networks.
+The dataset was obtained from MNIST
